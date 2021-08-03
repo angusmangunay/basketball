@@ -1,5 +1,5 @@
 # College Basketball Win Ratio Estimator: Project Overview
-- Created a model that estimates College Basketball Win Ratio ($R^{2}$ ~ 0.86) to draw insights into variables that are most impactful for team success
+- Created a model that estimates College Basketball Win Ratio (R^2  ~ 0.86) to draw insights into variables that are most impactful for team success
 - Focussed on interpretable machine learning model of linear regression, as the motivation behind the model was to be implemented in personal planning of coaching plan for first grade, high school basketball team
 - Checked Linear Regression Assumptions and re-evaluated variable choices to attend to multicollinearity issues
 - Model highlights the importance of reducing turnovers when on offence and forcing turnovers when on defence, with these variables having the largest coefficients 
