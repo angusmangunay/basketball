@@ -7,7 +7,7 @@
 
 ## Code and Resources Used
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, matplotlib, seaborn, statsmodels, scipy. 
+**Packages:** pandas, numpy, matplotlib, seaborn, statsmodels, scipy.   
 **College Basketball Dataset:** https://www.kaggle.com/andrewsundberg/college-basketball-dataset  
 **Checking Linear Regression Assumptions:** https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
