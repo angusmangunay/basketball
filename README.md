@@ -8,10 +8,14 @@
 ## Code and Resources Used
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, matplotlib, seaborn, statsmodels, scipy
-**College Basketball Dataset:** https://www.kaggle.com/andrewsundberg/college-basketball-dataset
+**College Basketball Dataset:** https://www.kaggle.com/andrewsundberg/college-basketball-dataset  
 **Checking Linear Regression Assumptions:** https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
 ## Variables:
+
+<details>
+<summary>**All variables in dataset**</summary>
+<br>
 
 - TEAM: The Division I college basketball school
 
@@ -60,6 +64,8 @@
 - SEED: Seed in the NCAA March Madness Tournament
 
 - YEAR: Season
+</details>
+
 
 **Final variables in model:** W_ratio (W/G), TOR, TORD, ORB, DRB, 2P_O, 2P_D, 3P_O, 3P_D
 - These variables were chosen to attend to multicollinearity issues and are practical in tracking from a coaching perspective
