@@ -83,3 +83,16 @@ Distributions of the data, pivot tables and correlation plots were obsvered. Bel
 ![Correlation Plot](images/corrplot.png)
 ![Team Win Ratio](images/team_w_ratio.png)
 ![Win Ratio Histogram](images/w_ratio_hist.png)
+
+## Model Building
+
+- Multiple Linear Regression was the main choice for model building as the resulting model would be easily interpretable, assisting with constructing season training plans for my personal basketball coaching
+- Full OLS Model revealed high VIF among all variables, highlighting multicollinearity issues
+- Choice of select variables resulted in VIF < 2 which is not problematic 
+- Following linear regression assumptions were checked and seen to hold: linearity, expectation of residuals = 0, multicollinearity, normality
+
+## Implications
+
+- Stress importance of taking care of the ball and making the easy, simple pass
+- Integrating fundamental footwork and passing into drills where possible
+- Taking a proactive approach to defence, utilising half/full court traps and presses to force turnovers
