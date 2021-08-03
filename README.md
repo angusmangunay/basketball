@@ -14,7 +14,7 @@
 ## Variables:
 
 <details>
-<summary>**All variables in dataset**</summary>
+<summary>All variables in dataset</summary>
 <br>
 
 - TEAM: The Division I college basketball school
