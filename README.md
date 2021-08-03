@@ -80,4 +80,6 @@
 
 Distributions of the data, pivot tables and correlation plots were obsvered. Below are some notable highlights from this exploration.
 
-
+![Correlation Plot](images/corrplot.png)
+![Team Win Ratio](images/team_w_ratio.png)
+![Win Ratio Histogram](images/w_ratio_hist.png)
