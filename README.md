@@ -2,6 +2,7 @@
 
 ## Resources
 College Basketball Dataset: https://www.kaggle.com/andrewsundberg/college-basketball-dataset
+Checking Linear Regression Assumptions in Python:https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0
 
 ## Variables:
 
